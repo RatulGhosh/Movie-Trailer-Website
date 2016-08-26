@@ -8,7 +8,7 @@ A simple Movie Trailer Website
 
 Requirements:
 
-* [G](https://www.python.org/)
+* [Python](https://www.python.org/)
 
 Clone and start the app:
 
